@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IP_rotate_mailer/1.0.0": {
+        "runtime": {
+          "IP_rotate_mailer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IP_rotate_mailer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
