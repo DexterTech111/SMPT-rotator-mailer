@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\bin\Release\net8.0-windows\IP_rotate_mailer.exe
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\bin\Release\net8.0-windows\IP_rotate_mailer.deps.json
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\bin\Release\net8.0-windows\IP_rotate_mailer.runtimeconfig.json
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\bin\Release\net8.0-windows\IP_rotate_mailer.dll
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\bin\Release\net8.0-windows\IP_rotate_mailer.pdb
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.Form1.resources
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.dll
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\refint\IP_rotate_mailer.dll
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.pdb
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\IP_rotate_mailer.genruntimeconfig.cache
+C:\Users\ACER\source\repos\IP_rotate_mailer\IP_rotate_mailer\obj\Release\net8.0-windows\ref\IP_rotate_mailer.dll
